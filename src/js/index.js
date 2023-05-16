@@ -1,4 +1,4 @@
-alert("Olá! Bem vindo ao meu site! Codado por Asku/Indio!! <3");
+alert("Olá! Bem vindo ao meu site! Codado por Indiomar!! <3");
 
 const botaoAlterarTema = document.getElementById("botao-alterar-tema");
 
